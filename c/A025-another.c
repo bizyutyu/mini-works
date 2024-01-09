@@ -1,4 +1,5 @@
 // A025:動物の体調管理
+// 未クリア
 #include <stdio.h>
 
 int countPlans(long long int a[][2], int n, int s, int t) {
